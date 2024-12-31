@@ -6,4 +6,4 @@ def comparison_promt(promt, threshold, bigger_prompt, smaller_prompt):
     else:
         print(smaller_prompt)
 
-comparison_promt("בן כמה אתה?", 5, "ילד גדול", "אתה קטן מדי, תחזור פעם הבאה")
+comparison_promt("בן כמה אתה?", 5, "ילד גדול", "אתה מניאק, תחזור פעם הבאה")
